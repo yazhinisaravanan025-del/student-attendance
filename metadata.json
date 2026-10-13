@@ -1,0 +1,6 @@
+{
+  "name": "ClassPulse - Student Attendance Management System",
+  "description": "An intuitive, accessible student attendance management system for teachers and administrators with quick attendance marking, analytics, and Gemini AI powered parent notifications and attendance summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
